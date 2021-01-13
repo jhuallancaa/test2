@@ -18,6 +18,5 @@ stored xss PoC
 
 
 
-#### References :
-
+#### xtyphonx
 
